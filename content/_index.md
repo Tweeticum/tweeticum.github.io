@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        We work to understand how cereals respond to temperature signals and use this knowledge to adapt and increase the robustness of the plants developmental response to these signals. We focus on reproductive plant biology including the vegetative to floral transition, floret formation and flowering time regulation. Through understanding these processes, we aim to increase the developmental robustness of cereals, particularly wheat, under the increasingly variable climate conditions. 
   
   - block: collection
     content:
