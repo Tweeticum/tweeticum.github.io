@@ -10,7 +10,7 @@ last_name: Dixon
 superuser: true
 
 # Role/position
-role: Group Leader
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Group Leader and Associate Professor
+bio: Group Leader and Associate Professor at University of Leeds
 
 interests:
   - Artificial Intelligence
@@ -44,16 +44,14 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:L.Dixon2@leeds.ac.uk'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/Dixon_LE
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.co.uk/citations?user=Wa18tXoAAAAJ&hl=en
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,7 +67,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Group Leader
 ---
 
 I am motivated to use fundamental molecular genetic and biology to help address some of the big challenges we currently face regarding arable crop productivity. In particular, I’m fascinated how yield potential in cereals is highly plastic to the environment and the potential for regulating this response through understanding how cereal development responds to temperature and photoperiod signals. 
