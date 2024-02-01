@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Laura Dixon
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Laura
+last_name: Dixon
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Group Leader
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: University of Leeds
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Group Leader and Associate Professor
 
 interests:
   - Artificial Intelligence
@@ -72,6 +72,4 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am motivated to use fundamental molecular genetic and biology to help address some of the big challenges we currently face regarding arable crop productivity. In particular, I’m fascinated how yield potential in cereals is highly plastic to the environment and the potential for regulating this response through understanding how cereal development responds to temperature and photoperiod signals. 
