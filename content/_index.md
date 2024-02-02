@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Dixon
+        Laura Dixon
         Lab
       image:
         filename: welcome.jpg
