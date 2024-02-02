@@ -68,4 +68,4 @@ user_groups:
   - Postdoctoral Researchers
 ---
 
-My PhD research involves characterising the locus VERNALIZATION2 (VRN2), a key floral repressor in the vernalization pathway, in Triticum aestivum. I have been working to understand the effect of both photoperiod and temperature on VRN2 expression in different conditions, alongside the protein interactions with the key floral promoter in the vernalization pathway, VERNALIZATION1 (VRN1). I have been investigating specific allelic variants of both VRN1 and VRN2 with the view to generate better adapted and more robust wheat varieties in a changing climate.
+My research focuses on the identification and characterization of the regions of genetic importance which regulate the development of the wheat crops growth, and investigates the phenotypes of the different identified alleles under different temperature conditions.
