@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoctoral Researcher
+role: Postdoctoral Research Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Postdoctoral Researcher at University of Leeds
+bio: Postdoctoral Research Fellow at University of Leeds
 
 interests:
   - Vernalization
