@@ -28,12 +28,16 @@ interests:
   - Vernalization
   - Plant Genetics
   - Climate Change
+  - Eating Cherry Tomatoes
 
 education:
   courses:
-    - course: BSc in Biology (with Industry)
+    - course: PhD in Plant Sciences 
       institution: University of Leeds
-      year: 2020
+      year: 2023
+    - course: MSc in Plant Genetics and Crop Improvement
+      institution: John Innes Centre/University of East Anglia
+      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
